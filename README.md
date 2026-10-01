@@ -1,5 +1,6 @@
 # 💸 llm-cost-proxy
 
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/llm-cost-proxy/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Zero Dependency](https://img.shields.io/badge/Dependencies-Standard%20Lib-brightgreen.svg)](https://github.com/MobileConduit)
 [![CI/CD Pipeline](https://github.com/MobileConduit/llm-cost-proxy/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/llm-cost-proxy/actions)
@@ -49,7 +50,17 @@ sequenceDiagram
 
 ---
 
-## 🚀 Quick Run
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone https://github.com/MobileConduit/llm-cost-proxy.git
+cd llm-cost-proxy
+pip install -r requirements.txt
+```
+
+## 🚀 Usage & Instructions
 
 1. Copy and adjust the environment configuration:
 ```bash
