@@ -1,0 +1,13 @@
+{
+  "description": "Reverse proxy monitoring LLM token consumption and calculating real-time dollar expenditure across providers",
+  "topics": [
+    "llm",
+    "token-counter",
+    "cost-tracking",
+    "openai",
+    "anthropic",
+    "gemini",
+    "ai-proxy",
+    "api-gateway"
+  ]
+}
